@@ -1,0 +1,2 @@
+Number of vowels: 20
+Number of consonants: 68
