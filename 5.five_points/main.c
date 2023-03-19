@@ -39,8 +39,8 @@ int countConsonants(char *string) {
 int main(int argc, char *argv[]) {
     char *read_from = argv[1];                               // Файл, из которого будет читаться строка.
     char *write_to = argv[2];                                // Файл, в который будет записываться итоговый результат.
-    char *write_string = (char *) calloc(5000, sizeof(char));// Для записи в pipe.
-    char *read_string = (char *) calloc(5000, sizeof(char)); // Для чтения из pipe.
+    char *write_string = (char *) calloc(5000, sizeof(char));// Для записи в канал.
+    char *read_string = (char *) calloc(5000, sizeof(char)); // Для чтения из канала.
     int input_fifo, output_fifo, input, output, size_read, size_write;
     pid_t child, grandson;
     char name_fifo[9] = "work.fifo";// Файл для создания fifo.
@@ -48,7 +48,6 @@ int main(int argc, char *argv[]) {
     // Создаём fifo в текущей директории для parent и child.
     if (mknod(name_fifo, S_IFIFO | 0666, 0) < 0) {
         printf("Can't create FIFO\n");
-        perror("jsiowq");
         exit(-1);
     }
     child = fork();// Создаю дочерний процесс.
