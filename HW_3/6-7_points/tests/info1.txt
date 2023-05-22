@@ -1,0 +1,97 @@
+Watering day number 1
+First gardener is watering flower number 1
+First gardener is watering flower number 9
+First gardener has finished
+
+Second gardener is watering flower number 25
+Second gardener has finished
+
+Watering day number 2
+First gardener is watering flower number 1
+First gardener is watering flower number 8
+First gardener is watering flower number 9
+First gardener is watering flower number 15
+First gardener has finished
+
+Second gardener is watering flower number 22
+Second gardener is watering flower number 25
+Second gardener is watering flower number 29
+Second gardener is watering flower number 33
+Second gardener has finished
+
+Watering day number 3
+First gardener is watering flower number 1
+First gardener is watering flower number 6
+First gardener is watering flower number 8
+First gardener is watering flower number 9
+First gardener is watering flower number 11
+First gardener is watering flower number 15
+First gardener is watering flower number 16
+First gardener has finished
+
+Second gardener is watering flower number 21
+Second gardener is watering flower number 22
+Second gardener is watering flower number 25
+Second gardener is watering flower number 26
+Second gardener is watering flower number 29
+Second gardener is watering flower number 31
+Second gardener is watering flower number 33
+Second gardener has finished
+
+Watering day number 4
+First gardener is watering flower number 1
+First gardener is watering flower number 3
+First gardener is watering flower number 5
+First gardener is watering flower number 6
+First gardener is watering flower number 7
+First gardener is watering flower number 8
+First gardener is watering flower number 9
+First gardener is watering flower number 11
+First gardener is watering flower number 13
+First gardener is watering flower number 15
+First gardener is watering flower number 16
+First gardener is watering flower number 17
+First gardener has finished
+
+Second gardener is watering flower number 21
+Second gardener is watering flower number 22
+Second gardener is watering flower number 23
+Second gardener is watering flower number 25
+Second gardener is watering flower number 26
+Second gardener is watering flower number 27
+Second gardener is watering flower number 29
+Second gardener is watering flower number 31
+Second gardener is watering flower number 33
+Second gardener is watering flower number 35
+Second gardener is watering flower number 36
+Second gardener is watering flower number 37
+Second gardener has finished
+
+Watering day number 5
+First gardener is watering flower number 1
+First gardener is watering flower number 3
+First gardener is watering flower number 5
+First gardener is watering flower number 6
+First gardener is watering flower number 7
+First gardener is watering flower number 8
+First gardener is watering flower number 9
+First gardener is watering flower number 11
+First gardener is watering flower number 13
+First gardener is watering flower number 15
+First gardener is watering flower number 16
+First gardener is watering flower number 17
+First gardener has finished
+
+Second gardener is watering flower number 21
+Second gardener is watering flower number 22
+Second gardener is watering flower number 23
+Second gardener is watering flower number 25
+Second gardener is watering flower number 26
+Second gardener is watering flower number 27
+Second gardener is watering flower number 29
+Second gardener is watering flower number 31
+Second gardener is watering flower number 33
+Second gardener is watering flower number 35
+Second gardener is watering flower number 36
+Second gardener is watering flower number 37
+Second gardener has finished

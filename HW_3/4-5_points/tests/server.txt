@@ -1,0 +1,13 @@
+Server is waiting for clients...
+Accept first client
+Accept second client
+1 watering day is over for first gardener
+1 watering day is over for second gardener
+2 watering day is over for first gardener
+2 watering day is over for second gardener
+3 watering day is over for first gardener
+3 watering day is over for second gardener
+4 watering day is over for first gardener
+4 watering day is over for second gardener
+5 watering day is over for first gardener
+5 watering day is over for second gardener
